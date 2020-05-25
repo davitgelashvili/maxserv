@@ -1,0 +1,2 @@
+# maxserv
+CS GAME HOSTING
